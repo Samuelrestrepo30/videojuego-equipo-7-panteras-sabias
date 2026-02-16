@@ -1,3 +1,7 @@
-<h1>Samuel Restrepo</h1>
+<h1>Samuel Restrepo Díaz</h1>
 
-<p>Ingeniero multimedia, estudiante de la UNAD</H1>
+<p>Ubicación: Caicedonia Valle</H1>
+
+<p>Soy estudiante de Ingeniería Multimedia en la Universidad Nacional Abierta y a Distancia (UNAD), me interesa el desarrollo de videojuegos y la creación de experiencias interactivas, tengo especial interés en la edición de audio y video, la fotografía y el marketing digital, cuento con conocimientos básicos en programación y diseño digital, y me gusta estructurar 
+proyectos creativos combinando tecnología y estrategia</H1>
+
