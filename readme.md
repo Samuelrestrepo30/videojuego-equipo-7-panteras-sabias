@@ -1,3 +1,3 @@
-<h1>Samuel Restrepo</h1>
+<h1>7 Panteras Sabias</h1>
 
-<p>Ingeniero multimedia, estudiante de la UNAD</H1>
+<p>Equipo designado al desarrollo de videojuegos</H1>
