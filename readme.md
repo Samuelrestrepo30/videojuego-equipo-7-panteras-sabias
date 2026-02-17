@@ -1,6 +1,6 @@
 ##  Integrante: Andres Henao
 
-[fotopersonal](Andres/foto.jpg)
+[foto personal](Andres/foto.jpg)
 
 **Nombre:** Andres Henao
 **Rol en la industria:** ista en marketing y comunidad  
