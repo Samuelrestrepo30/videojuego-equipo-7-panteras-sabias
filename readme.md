@@ -1,3 +1,8 @@
-<h1>7 Panteras Sabias</h1>
+## Jose Galvis
 
-<p>Equipo designado al desarrollo de videojuegos</H1>
+![Foto personal](jose/foto.jpg)  
+![Plato favorito](jose/plato.jpeg)
+
+**Rol en la industria:** QA Tester  
+**Ubicación:** Popayán, Colombia  
+**Perfil:** Estudiante de últimos semestres, apasionado por la optimización técnica y el trabajo colaborativo. Disfruto aprender nuevas tecnologías y aportar soluciones creativas.
