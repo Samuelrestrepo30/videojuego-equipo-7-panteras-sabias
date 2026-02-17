@@ -1,8 +1,6 @@
 ##  Integrante: Andres Henao
 
-[foto personal ](https://github.com/user-attachments/assets/e7bea617-774f-48af-9c26-a1c887c20f4c)
-
-.jpg)
+[foto personal](https://github.com/user-attachments/assets/e7bea617-774f-48af-9c26-a1c887c20f4c)
 
 **Nombre:** Andres Henao
 *Rol en la industria:* ista en marketing y comunidad  
