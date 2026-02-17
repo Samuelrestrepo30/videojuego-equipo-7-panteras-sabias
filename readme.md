@@ -1,32 +1,27 @@
-## Jose Galvis
-<# Samuel Restrepo Díaz
 <h1>Kenny Morales</h1>
 
 <p>Animador y Modelador Digital</H1>
 
 <img src="kenny_morales/klm.jpg" width="150" height="150">
-<h1>Samuel Restrepo Díaz</h1>
 
 <p>Soy estudiante de ingenieria multimedia y me gusta mucho la parte de animación y video juegos. soy apasionada por el conocimiento, me gusta la musica, la lluvia y los gatos.</H1>
 
-![Foto personal](jose/foto.jpg)  
-![Plato favorito](jose/plato.jpg)
+
 <p>Ubicación: Cali</H1>
 
 <p>Plato Favorito: El helado</H1>
 
 <img src="kenny_morales/helado.jpg" width="150" height="150">
+
+## Samuel Restrepo Díaz
 <img src="samuel_restrepo/foto_github.jpeg" width="250" height="250">
 
 **Rol:** Diseñador de Contenidos Digitales  
 **Ubicación:** Caicedonia, Valle  
-
 Soy estudiante de Ingeniería Multimedia en la Universidad Nacional Abierta y a Distancia (UNAD).  
 Me interesa el desarrollo de videojuegos y la creación de experiencias interactivas.  
-
 Tengo especial interés en la edición de audio y video, la fotografía y el marketing digital.  
 Cuento con conocimientos básicos en programación y diseño digital, y me gusta estructurar proyectos creativos combinando tecnología y estrategia.
-
 **Comida favorita:** Salchipapa (revisar carpeta)
 
 
@@ -50,9 +45,17 @@ Cuento con conocimientos básicos en programación y diseño digital, y me gusta
 **Perfil:** Estudiante de último semestre, apasionado por el marketing digital y el desarrollo web. Me gusta aprender nuevas cosas y aportar conocimiento, ideas y soluciones.
 
 ### Mi comida Favorita
-
 ![comida](https://github.com/user-attachments/assets/96d65566-6683-467d-9664-bdc2da3085fe)
+
+
+
+
+## Jose Galvis
+
+![Foto personal](jose/foto.jpg)  
+![Plato favorito](jose/plato.jpg)
 
 **Rol en la industria:** QA Tester  
 **Ubicación:** Popayán, Colombia  
 **Perfil:** Estudiante de últimos semestres, apasionado por la optimización técnica y el trabajo colaborativo. Disfruto aprender nuevas tecnologías y aportar soluciones creativas.
+
