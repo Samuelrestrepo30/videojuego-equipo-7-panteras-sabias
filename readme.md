@@ -1,6 +1,7 @@
 ##  Integrante: Andres Henao
 
-[foto](https://github.com/user-attachments/assets/38d4a5af-06f8-49fe-8b50-18e469d3d290)
+[foto personal ](https://github.com/user-attachments/assets/e7bea617-774f-48af-9c26-a1c887c20f4c)
+
 .jpg)
 
 **Nombre:** Andres Henao
