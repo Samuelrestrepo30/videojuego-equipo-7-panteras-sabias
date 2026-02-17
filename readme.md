@@ -1,7 +1,7 @@
 ## Jose Galvis
 
 ![Foto personal](jose/foto.jpg)  
-![Plato favorito](jose/plato.jpeg)
+![Plato favorito](jose/plato.jpg)
 
 **Rol en la industria:** QA Tester  
 **Ubicación:** Popayán, Colombia  
