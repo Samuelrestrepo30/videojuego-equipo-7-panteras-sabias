@@ -1,3 +1,4 @@
+## Jose Galvis
 <# Samuel Restrepo Díaz
 <h1>Kenny Morales</h1>
 
@@ -8,6 +9,8 @@
 
 <p>Soy estudiante de ingenieria multimedia y me gusta mucho la parte de animación y video juegos. soy apasionada por el conocimiento, me gusta la musica, la lluvia y los gatos.</H1>
 
+![Foto personal](jose/foto.jpg)  
+![Plato favorito](jose/plato.jpg)
 <p>Ubicación: Cali</H1>
 
 <p>Plato Favorito: El helado</H1>
@@ -49,3 +52,7 @@ Cuento con conocimientos básicos en programación y diseño digital, y me gusta
 ### Mi comida Favorita
 
 ![comida](https://github.com/user-attachments/assets/96d65566-6683-467d-9664-bdc2da3085fe)
+
+**Rol en la industria:** QA Tester  
+**Ubicación:** Popayán, Colombia  
+**Perfil:** Estudiante de últimos semestres, apasionado por la optimización técnica y el trabajo colaborativo. Disfruto aprender nuevas tecnologías y aportar soluciones creativas.
