@@ -9,4 +9,5 @@
 **Perfil:** Estudiante de último semestre, apasionado por el marketing digital y el desarrollo web. Me gusta aprender nuevas cosas y aportar conocimiento, ideas y soluciones.
 
 ### Mi comida Favorita
-[Comida favorita](Andres/comida.jpg)
+
+![comida](https://github.com/user-attachments/assets/96d65566-6683-467d-9664-bdc2da3085fe)
